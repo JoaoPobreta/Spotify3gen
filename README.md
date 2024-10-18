@@ -57,6 +57,7 @@ Os códigos gerados podem ser:
 ## 📬 Contato
 
 Criado por: **pecinha'1533** 😊
+Full CHAT-GPT
 
 Para sugestões ou problemas, entre em contato!
 
